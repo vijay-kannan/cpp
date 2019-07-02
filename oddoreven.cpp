@@ -2,10 +2,10 @@
 #include<conio.h>
 void main()
 {
-int num;
+int a;
 cout<<"Enter the Number";
-cin>>num;
-if(num%2==0)
+cin>>a;
+if(a%2==0)
 {
 cout<<"The number is even";
 }
